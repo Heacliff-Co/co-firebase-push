@@ -1,8 +1,6 @@
 # Firebase function to submit push notification
 
-Youtube:
-
-[![How to make it](https://img.youtube.com/vi/cxELXfRAkNA/0.jpg)](https://www.youtube.com/watch?v=cxELXfRAkNA)
+[![How to make it](https://img.youtube.com/vi/cxELXfRAkNA/0.jpg)]
 
 1. Create a new function:
 
